@@ -1,2 +1,2 @@
 # Particle-Filter-SLAM
-A particle filter solution for simultaneous localization and mapping written in Python
+A particle filter solution for simultaneous localization and mapping (SLAM) written in Python
